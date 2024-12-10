@@ -1,0 +1,5 @@
+I could not make the pos_tagger.py file according to the question (ie the input of command line argument to decide which pos tagger to use). The output format reamins the same as the question.
+I have made a pos_tagger.ipynb file where the top cell contains the FFNN pos_tagger and the bottom cell contains the LSTM pos_tagger.
+The output of the files reamins the same that is it asks for a sentence and gives the output based on the format specified in the question.
+(https://drive.google.com/file/d/1NRxd4x86Nuo8iyxWtT74OjoG3sgH34HU/view?usp=sharing) this is the link to my pretrained lstm file.
+pos_ffnn_model .pth this is my pretrained FFNN model.
